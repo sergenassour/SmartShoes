@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "719261392594",
+    "firebase_url": "https://smartshoes-9887e-default-rtdb.firebaseio.com",
+    "project_id": "smartshoes-9887e",
+    "storage_bucket": "smartshoes-9887e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719261392594:android:034007793bb154a118d70b",
+        "android_client_info": {
+          "package_name": "com.smart.shoes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719261392594-r8a9i1300aj3jgdlupa4n9panero2uu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPS2dTJSEOcUwDNSfiB7okZ6Qhf6Zq8Q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719261392594-r8a9i1300aj3jgdlupa4n9panero2uu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SmartShoes</string>
+    <string name="reset_link_instruction">Enter email to get reset link(make sure email should exist)</string>
+    <string name="button_reset_link">Get Reset Link</string>
+    <string name="error">Error</string>
+    <string name="resetLink">Reset link send to your email</string>
+    <string name="logoutString">Are you sure you want to sign out from this application?</string>
+</resources>

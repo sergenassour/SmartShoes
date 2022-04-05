@@ -1,5 +1,4 @@
 package com.smart.shoes.Fragments;
-
 import android.graphics.Color;
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -10,6 +9,8 @@ import android.widget.Toast;
 import androidx.fragment.app.Fragment;
 
 
+import com.smart.shoes.Database.Database;
+import com.smart.shoes.Models.SensorModel;
 import com.smart.shoes.R;
 
 import java.util.ArrayList;
@@ -32,7 +33,6 @@ import lecho.lib.hellocharts.view.LineChartView;
 public class MeasurementFragment extends Fragment {
     List<SensorModel> sensorModels;
     Database database;
-
     View view;
     private LineChartView chart;
 
